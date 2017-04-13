@@ -11,4 +11,6 @@ Add you userid in to Sudo.lua
 
 
 @Xlinksupport
-@aftabonline
+<b>کانال پشتیبانی مجله آفتاب(خدمات تلگرامی):<a href='https://telegram.me/BotXlinkHELP'>BotXlinkHELP</a><br/><br/>
+
+<b>کانال مجله آفتاب:<a href='https://telegram.me/aftabonline'>AFTABONLINE</a><br/><br/>
